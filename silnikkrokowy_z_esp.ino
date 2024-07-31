@@ -14,8 +14,8 @@ bool buttonPressed1;
 bool buttonPressed2;
 bool ostatnioZasloniete = true;
 
-const char* ssid     = "ELSAT_333_0B0D";
-const char* password = "imperIalY37";
+const char* ssid     = "";
+const char* password = "";
 
 WiFiServer server(80);
 
